@@ -1,10 +1,10 @@
 # Project_2_The_Vault
 
-Ivan Zivlak . . . . He's in a better place😞
+Ivan Zivlak
     
 Jack Pelitier
 
-Michael Brown
+Michael Brown (me)
 
 Implementation of a secrets vault software that stores usernames and passswords for services (websites) in a protected centralized repository so that secrets are note stored across a system ("secrets sprawl"). 
 
